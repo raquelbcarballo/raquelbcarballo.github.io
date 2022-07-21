@@ -95,10 +95,6 @@ Empresa encargada del desarrollo de una nueva tecnología en relación con el ne
 - Curso de formación en programación de robots industriales.
 - Programación de robots industriales.
 
-## Portfolio
-
-![GitHub](Raquel%20Blanco%20Carballo%203795446dfeb74c4fbe4beb97d33a4b0a/Untitled.png)
-
 ## Redes
 
 Mi [Linkedin](https://www.notion.so/Raquel-Blanco-Carballo-63a181161bbb4383bfb6ac095a5b4edd)
