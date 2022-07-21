@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+# Raquel Blanco Carballo
 
-You can use the [editor on GitHub](https://github.com/raquelbcarballo/raquelbcarballo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Ingeniera electrónica industrial y automática
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 👤 **Contacto**
 
-### Markdown
++34608841234
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[raquelbc2996@gmail.com](mailto:raquelb2996@gmail.com)
 
-```markdown
-Syntax highlighted code block
+## 🎓 **Educación**
 
-# Header 1
-## Header 2
-### Header 3
+2014 - 2020
 
-- Bulleted
-- List
+**Grado en Ingeniería electrónica industrial y automática** 
 
-1. Numbered
-2. List
+Universidade de Vigo
 
-**Bold** and _Italic_ and `Code` text
+- Formando parte del Staff en las Jornadas de Automatización Industrial (JAI)
 
-[Link](url) and ![Image](src)
-```
+## 🦸‍♀️ **Tecnologías**
+ 
+Vue
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+HTML
 
-### Jekyll Themes
+CSS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raquelbcarballo/raquelbcarballo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+JavaScript
 
-### Support or Contact
+C
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+C++
+
+Python
+
+Flutter
+
+## **Aptitudes**
+
+- Gestión de proyectos y organización
+- Proactividad y aprendizaje continuo
+- Trabajo en equipo
+- Creatividad
+
+## **Descripción del trabajo**
+
+> *Actualmente, Ingeniera Full-Stack en Salcotech S.L. y profesora de ballet clásico en la escuela de danza Inés Núñez.*
+
+## **Experiencia laboral**
+
+### 💻 Ingeniera Full-Stack
+
+ *Junio 2021 - Actualidad* | *Salcotech S.L.*
+
+Empresa encargada del desarrollo de una nueva tecnología en relación con el neumático.
+
+- Desarrollo de aplicación híbrida de móvil con Flutter.
+- Desarrollo de la aplicación web con VUE.
+- Desarrollo de la API con Python.
+- Gestión de la Base de Datos.
+- Gestión de sistemas almacenados en AWS.
+- Diseño de las carcasas del sensor con FreeCad.
+
+### 🩰 Profesora de ballet
+
+ *Septiembre 2020 - Actualidad* | *Escuela de danza Inés Núñez*
+
+- Clases a niños y niñas desde los 3 a los 12 años.
+
+### 💻 Ingeniera industrial
+
+ *Septiembre 2019 - Junio 2021*  | *i+D3*
+
+*Empresa encargada del desarrollo e instalación de soluciones para parkings, control de accesos, tráfico y movilidad.*
+
+- Integración de nuevas electrónicas.
+- Corrección de errores de software.
+- Desarrollo en C++.
+
+### 🩰 Profesora de ballet
+
+ *Octubre 2019 - Abril 2020* | *Baas Ballet*
+
+- Clases a niños y niñas desde los 6 a los 16 años.
+
+### 🤖 Ingeniera industrial
+
+ *Julio 2017 - Agosto 2017* | *Ledisson AIT*
+
+*Empresa encargada de la automatización de procesos para aumentar la productividad, la eficiencia y solventar problemas de sus instalaciones.*
+
+- Realización de prácticas extracurriculares.
+- Técnica de innovación.
+- Curso de formación en programación de robots industriales.
+- Programación de robots industriales.
+
+## Portfolio
+
+![GitHub](Raquel%20Blanco%20Carballo%203795446dfeb74c4fbe4beb97d33a4b0a/Untitled.png)
+
+## Redes
+
+Mi [Linkedin](https://www.notion.so/Raquel-Blanco-Carballo-63a181161bbb4383bfb6ac095a5b4edd)
