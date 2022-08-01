@@ -1,53 +1,44 @@
 # Raquel Blanco Carballo
 
-## Ingeniera electrónica industrial y automática
+*Actualmente, Ingeniera Full-Stack en Salcotech S.L. y profesora de ballet clásico en la escuela de danza Inés Núñez.*
 
-## **Contacto**
+## 👤 Contacto
 
-<aside>
-👤 +34608841234
++34608841234
+  
 [raquelbc2996@gmail.com](mailto:raquelb2996@gmail.com)
 
-</aside>
 
-## Educación
+## 🎓 Educación
 
-<aside>
-🎓 *2014 - 2020*
-**Grado en Ingeniería electrónica industrial y automática** *Universidade de Vigo*
-- Formando parte del Staff en las Jornadas de Automatización Industrial (JAI)
+*2014 - 2020*
 
-</aside>
+*Universidade de Vigo*
 
-## Tecnologías
+Grado en Ingeniería electrónica industrial y automática 
 
-<aside>
-🦸‍♀️ Vue
-HTML
-CSS
-JavaScript
-C
-C++
-Python
-Flutter
+Formando parte del Staff en las Jornadas de Automatización Industrial (JAI)
 
-</aside>
+
+## 🦸‍♀️ Tecnologías
+
+- Vue
+- HTML
+- CSS
+- JavaScript
+- C
+- C++
+- Python
+- Flutter
 
 ## Aptitudes
 
 - Gestión de proyectos y organización
-- Proactividad ****y aprendizaje continuo
+- Proactividad y aprendizaje continuo
 - Trabajo en equipo
 - Creatividad
 
-## Descripción del trabajo
-
-> *Actualmente, Ingeniera Full-Stack en Salcotech S.L. y profesora de ballet clásico en la escuela de danza Inés Núñez.*
-> 
-
-## **Experiencia laboral**
-
----
+## Experiencia laboral
 
 ### 💻 Ingeniera Full-Stack
 
@@ -62,15 +53,11 @@ Empresa encargada del desarrollo de una nueva tecnología en relación con el ne
 - Gestión de sistemas almacenados en AWS.
 - Diseño de las carcasas del sensor con FreeCad.
 
----
-
 ### 🩰 Profesora de ballet
 
  *Septiembre 2020 - Actualidad* | *Escuela de danza Inés Núñez*
 
 - Clases a niños y niñas desde los 3 a los 12 años.
-
----
 
 ### 💻 Ingeniera industrial
 
@@ -82,7 +69,6 @@ Empresa encargada del desarrollo de una nueva tecnología en relación con el ne
 - Corrección de errores de software.
 - Desarrollo en C++.
 
----
 
 ### 🩰 Profesora de ballet
 
@@ -90,7 +76,6 @@ Empresa encargada del desarrollo de una nueva tecnología en relación con el ne
 
 - Clases a niños y niñas desde los 6 a los 16 años.
 
----
 
 ### 🤖 Ingeniera industrial
 
@@ -103,28 +88,17 @@ Empresa encargada del desarrollo de una nueva tecnología en relación con el ne
 - Curso de formación en programación de robots industriales.
 - Programación de robots industriales.
 
-## Portfolio
-
-![Untitled](Raquel%20Blanco%20Carballo%203795446dfeb74c4fbe4beb97d33a4b0a/Untitled.png)
-
 ## Redes
 
-Mi [Linkedin](https://www.notion.so/Raquel-Blanco-Carballo-63a181161bbb4383bfb6ac095a5b4edd)
+Mi [Linkedin](https://www.linkedin.com/in/raquel-blanco-carballo-427a46100)
 
-## Idiomas
+Mi CV en [Notion](https://www.notion.so/Raquel-Blanco-Carballo-63a181161bbb4383bfb6ac095a5b4edd)
 
-### Español
+## Languages
+Español ![100%](https://progress-bar.dev/100)
 
-◾◾◾◾◾◾
+Gallego ![100%](https://progress-bar.dev/100)
 
-### Gallego
+Inglés (B1) ![60%](https://progress-bar.dev/60)
 
-◾◾◾◾◾◾
-
-### Inglés (B1)
-
-◾◾◾◽◽◽
-
-### Francés (A1)
-
-◾◽◽◽◽◽
+Francés (A1) ![20%](https://progress-bar.dev/20)
