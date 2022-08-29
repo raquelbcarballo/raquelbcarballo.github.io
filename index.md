@@ -1,6 +1,6 @@
 # Raquel Blanco Carballo
 
-*Actualmente, Ingeniera Full-Stack en Salcotech S.L. y profesora de ballet clásico en la escuela de danza Inés Núñez.*
+*Actualmente, Ingeniera Full-Stack en Efimob y profesora de ballet clásico en la escuela de danza Inés Núñez.*
 
 ## 👤 Contacto
 
@@ -42,7 +42,13 @@ Formando parte del Staff en las Jornadas de Automatización Industrial (JAI)
 
 ### 💻 Ingeniera Full-Stack
 
- *Junio 2021 - Actualidad* | *Salcotech S.L.*
+ *Agosto 2022 - Actualidad* | *Efimob*
+
+Empresa encargada del sector de la movilidad eléctrica.
+
+### 💻 Ingeniera Full-Stack
+
+ *Junio 2021 - Agosto 2022* | *Salcotech S.L.*
 
 Empresa encargada del desarrollo de una nueva tecnología en relación con el neumático.
 
