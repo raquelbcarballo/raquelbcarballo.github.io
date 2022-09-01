@@ -1,0 +1,12 @@
+.navbar{
+    background-color:rgb(30, 30, 60);
+    margin:5%;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color:aquamarine;
+}

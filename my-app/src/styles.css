@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+html, body { height: 100%; background-color: rgb(30, 30, 60); }
+body { margin: 0; color:white; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.background{
+    margin: 10% 20% 20% 20%;
+}
+
+h1{
+    font-weight: 600 !important;
+    font-size:60px !important;
+    color:rgba(255, 255, 255, 0.8);
+}
+
+h2{
+    font-weight: 600 !important;
+    font-size:30px!important;
+    color:rgba(255, 255, 255, 0.6) 
+}
+h3{
+    font-weight: 600 !important;
+    font-size:15px !important;
+    text-transform: uppercase !important;
+    color:white
+}
+h4,a, button{
+    font-size:15px !important;    
+    font-family:"Lucida Console", "Courier New", monospace !important;
+    color:aquamarine
+}
+mat-card-title{
+    font-size:15px !important;
+    color:aquamarine;
+    letter-spacing: 1px !important;
+    line-height: 2 !important;
+}
+p{
+    font-size:15px !important;
+    color:white;
+    letter-spacing: 1px !important;
+    line-height: 2 !important;
+}
+
+span{
+    color:aquamarine
+}
+
+mat-card{
+    padding: 2%;;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
