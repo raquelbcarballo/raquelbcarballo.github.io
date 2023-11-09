@@ -1,53 +1,49 @@
-/* You can add global styles to this file, and also import other style files */
 @import "~bootstrap-icons/font/bootstrap-icons.css";
 
-html, body { height: 100%; background-color: rgb(30, 30, 60); }
-body { margin: 0; color:white; font-family: Roboto, "Helvetica Neue", sans-serif; }
-
-.background{
-    margin: 10% 20% 20% 20%;
+html,
+body {
+    height: 100%;
+    margin: 0;
 }
 
-h1{
-    font-weight: 600 !important;
-    font-size:70px !important;
-    color:rgba(255, 255, 255, 0.8);
+body {
+    background-color: #748E63;
+    color: #EBF3E8;
+    font-family: "Lucida Console";
+    font-size: 15px;
 }
 
-h2{
-    font-weight: 600 !important;
-    font-size:30px!important;
-    color:rgba(255, 255, 255, 0.6)
+.background {
+    margin: 10% 20% 10% 20%;
 }
-h3{
+
+h1 {
     font-weight: 600 !important;
-    font-size:15px !important;
+    font-size: 70px !important;
     text-transform: uppercase !important;
-    color:white
-}
-h4,a, button{
-    font-size:15px !important;    
-    font-family:"Lucida Console", "Courier New", monospace !important;
-    color:aquamarine
-}
-mat-card-title{
-    font-size:15px !important;
-    color:aquamarine;
-    letter-spacing: 1px !important;
-    line-height: 2 !important;
-}
-p{
-    font-size:15px !important;
-    color:white;
-    letter-spacing: 1px !important;
-    line-height: 2 !important;
 }
 
-span{
-    color:aquamarine
+h2 {
+    font-weight: 600 !important;
+    font-size: 30px !important;
+    text-transform: uppercase !important;
 }
 
-mat-card{
-    padding: 2%;;
-    background-color: rgba(255, 255, 255, 0.1) !important;
+h3 {
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+}
+
+button {
+    background-color: #EBF3E8;
+    color: #748E63;
+    border: 1px solid #EBF3E8;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+mat-card {
+    padding: 2%;
+    border: 2px solid #D2E3C8 !important;
+    background-color: #748E63 !important;
 }
