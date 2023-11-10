@@ -12,6 +12,6 @@ export class ExperienceModule {
   dates:string="";
   company:string="";
   details:string="";
-  technologies:string[]=[]; 
+  technologies:string[]=[];
 
 }

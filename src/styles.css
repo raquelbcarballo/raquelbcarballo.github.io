@@ -1,49 +1,78 @@
 @import "~bootstrap-icons/font/bootstrap-icons.css";
 
-html,
-body {
+:root {
+    --primary-color: #94A684;
+    --contrast-color: #E4E4D0;
+    --font-color: #FFEEF4;
+  }
+
+html {
     height: 100%;
-    margin: 0;
+    width: 100%;
 }
 
 body {
-    background-color: #748E63;
-    color: #EBF3E8;
+    background-color: var(--primary-color);
+    color: var(--font-color);
     font-family: "Lucida Console";
-    font-size: 15px;
 }
 
-.background {
-    margin: 10% 20% 10% 20%;
+.container {
+    padding: 10% 20% 10% 20%;
 }
 
 h1 {
-    font-weight: 600 !important;
     font-size: 70px !important;
+    font-weight: 600 !important;
     text-transform: uppercase !important;
 }
 
 h2 {
     font-weight: 600 !important;
-    font-size: 30px !important;
     text-transform: uppercase !important;
 }
 
 h3 {
     font-weight: 600 !important;
-    text-transform: uppercase !important;
+}
+
+.navbar {
+    margin-right: 5%;
+    margin-top: 5%;
+    color: var(--font-color);
+}
+
+.custom-link {
+    color: var(--font-color);
+    font-weight: 600 !important;
+
+}
+
+.custom-link.active {
+    color: var(--contrast-color) !important;
 }
 
 button {
-    background-color: #EBF3E8;
-    color: #748E63;
-    border: 1px solid #EBF3E8;
+    background-color: var(--font-color);
+    color: var(--primary-color);
+    border: none;
     border-radius: 5px;
     padding: 5px 15px;
 }
 
+.technology-button {
+    background-color: var(--primary-color);
+    color: var(--font-color);
+    border: 2px solid var(--font-color);
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin-right: 5px;
+}
+
 mat-card {
     padding: 2%;
-    border: 2px solid #D2E3C8 !important;
-    background-color: #748E63 !important;
+    color:var(--font-color) !important;
+    border: 2px solid var(--font-color) !important;
+    background-color: var(--primary-color) !important;
+    border-radius: 5px  !important;
 }

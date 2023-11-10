@@ -1,43 +1,45 @@
-<div class="background">
+<div class="container">
     <div class="row">
-        <button mat-stroked-button href="https://www.linkedin.com/in/raquel-blanco-carballo-427a46100"> My [Linkedin]</button>
-        <br><br>
-        <button mat-stroked-button href="https://www.notion.so/Raquel-Blanco-Carballo-63a181161bbb4383bfb6ac095a5b4edd"> My CV on [Notion]</button>
+        <button
+            href="https://www.linkedin.com/in/raquel-blanco-carballo-427a46100">
+            <i class="bi bi-linkedin"></i> Go to my Linkedin
+        </button>
     </div>
     <br><br>
-    <div style="display: flex;">
-        <div style="flex: 1; margin-right: 20px;">
-            <h3>Languages</h3>
-            <mat-card>
-                <mat-grid-list cols="2" rowHeight="50px">
-                    <mat-grid-tile>
-                        <p>Spanish <img src="https://progress-bar.dev/100" /></p>
-                    </mat-grid-tile>
-                    <mat-grid-tile>
-                        <p>Galician <img src="https://progress-bar.dev/100" /></p>
-                    </mat-grid-tile>
-                    <mat-grid-tile>
-                        <p>English <img src="https://progress-bar.dev/60" /></p>
-                    </mat-grid-tile>
-                    <mat-grid-tile>
-                        <p>French <img src="https://progress-bar.dev/30" /></p>
-                    </mat-grid-tile>
-                </mat-grid-list>
-            </mat-card>
-        </div>
-        <div style="flex: 1;">
-            <h3>Education</h3>
-            <mat-card>
-                <mat-card-title> Degree in Industrial and Automatic Electronic Engineering <br></mat-card-title>
-                <mat-card-content>
-                    <p>
-                        Universidade de Vigo. September 2014 - September 2020 <br>
-                    </p>
-                </mat-card-content>
-            </mat-card>
-            <br>
-        </div>
+    <div>
+        <h3>Languages</h3>
+        <mat-card>
+            <mat-grid-list cols="2" rowHeight="50px">
+                <mat-grid-tile>
+                    <p>Spanish <img src="https://progress-bar.dev/100" /></p>
+                </mat-grid-tile>
+                <mat-grid-tile>
+                    <p>Galician <img src="https://progress-bar.dev/100" /></p>
+                </mat-grid-tile>
+                <mat-grid-tile>
+                    <p>English <img src="https://progress-bar.dev/60" /></p>
+                </mat-grid-tile>
+                <mat-grid-tile>
+                    <p>French <img src="https://progress-bar.dev/30" /></p>
+                </mat-grid-tile>
+            </mat-grid-list>
+        </mat-card>
     </div>
     <br><br>
     <app-experiences></app-experiences>
+    <br><br>
+    <div>
+        <h3>Education</h3>
+        <mat-card>
+            <mat-card-title> Bachelor Degree in Industrial and Automatic
+                Electronic
+                Engineering <br></mat-card-title>
+            <mat-card-content>
+                <p>
+                    Universidade de Vigo. September 2014 - September 2020 <br>
+                </p>
+            </mat-card-content>
+        </mat-card>
+        <br>
+    </div>
 </div>
