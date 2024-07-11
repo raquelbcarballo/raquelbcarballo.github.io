@@ -7,25 +7,32 @@ import { Component } from '@angular/core';
 export class ExperiencesComponent {
   experienceModules: ExperienceModule[] = [
     new ExperienceModule(
+      "Computer Assistant Technician",
+      "June 2024 - Present",
+      "Ministerio de Transportes y Movilidad Sostenible. Dirección General de Organización e Inspección. Subdirección General de Tecnologías de la Información y Administración Digital",
+      "Public employment",
+      []
+      ),
+    new ExperienceModule(
       "Full-Stack Engineer",
-      "August 2022 - Present",
+      "August 2022 - June 2024",
       "Efimob",
       "Company in charge of the electric mobility sector.",
-      ["Go", "Angular", "NestJS", "AWS", "Python", "Machine-Learning"]
+      ["Python", "Machine Learning", "Angular", "Scrum", "Kubernetes", "Docker", "PostgreSQL", "InfluxDB", "NestJS", "Git", "MQTT", "Go"]
       ),
     new ExperienceModule(
       "Full-Stack Engineer",
       "June 2021 - August 2022",
       "Salcotech S.L.",
       "Company in charge of the development of a new technology in relation to the tire.",
-      ["Flutter", "Vue", "Flask", "MySQL", "AWS", "FreeCad"]
+      ["Python", "Flask", "Flutter", "Vue.js", "MySQL", "C", "Arduino", "Git", "FreeCad"]
       ),
     new ExperienceModule(
       "Developer Engineer",
       "September 2019 - June 2021",
       "i+D3",
       "Company in charge of the development and instalation of parkings.",
-      ["C++", "QA"]
+      ["C++", "Raspberry Pi", "Git"]
       ),
     new ExperienceModule(
       "Industrial Engineer",
