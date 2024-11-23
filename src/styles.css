@@ -80,3 +80,36 @@ mat-card {
     background-color: var(--primary-color) !important;
     border-radius: 5px !important;
 }
+
+.language-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    gap: 10px;
+}
+
+.language-container p {
+    margin: 0;
+    flex: 1;
+    text-align: end;
+    width: 100px;
+}
+
+.progress-bar {
+    width: 80px;
+    height: 20px;
+    background-color: #E0E0E0;
+    border-radius: 5px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.progress-bar::after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: var(--progress);
+    background-color: #A3D977;
+    transition: width 0.3s ease-in-out;
+}
