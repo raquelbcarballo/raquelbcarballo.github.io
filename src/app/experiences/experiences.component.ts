@@ -11,7 +11,7 @@ export class ExperiencesComponent {
       "June 2024 - Present",
       "Ministerio de Transportes y Movilidad Sostenible. Dirección General de Organización e Inspección. Subdirección General de Tecnologías de la Información y Administración Digital",
       "Public employment",
-      []
+      ["Python", "AI", "PostgreSQL", "Docker", ".NET"]
       ),
     new ExperienceModule(
       "Full-Stack Engineer",
