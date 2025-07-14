@@ -1,0 +1,15 @@
+<div>
+    <h3>Experiences</h3>
+    <div *ngFor="let experience of experienceModules">
+        <mat-card>
+            <mat-card-title> {{experience.title}} at {{experience.company}} </mat-card-title>
+            <mat-card-content>
+                <p>
+                    {{experience.dates}} <br>
+                    {{experience.details}} <br></p>
+                <button class="technology-button" *ngFor="let item of experience.technologies" disabled>{{item}}</button>
+            </mat-card-content>
+        </mat-card>
+        <br>
+    </div>
+</div>
