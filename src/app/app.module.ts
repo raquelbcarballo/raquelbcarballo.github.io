@@ -2,8 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import { ResumeComponent } from './resume/resume.component';
-import { ExperiencesComponent } from './experiences/experiences.component';
+import { AboutComponent } from './about/about.component';
 import { RouterModule, Routes } from '@angular/router';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule } from '@angular/material/button';
@@ -14,15 +13,14 @@ import { AnimationComponent } from './animation/animation.component';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'resume', component: ResumeComponent },
+  { path: 'about', component: AboutComponent },
 ];
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    ResumeComponent,
-    ExperiencesComponent,
+    AboutComponent,
     AnimationComponent
   ],
   imports: [
